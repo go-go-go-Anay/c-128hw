@@ -1,0 +1,44 @@
+body{background-size: cover;
+    background-position: center;
+
+}
+
+.title{
+    font-size: 25px;
+    width: 100%;
+    margin: 0%;
+}
+
+.note{
+    font-size: 19px;
+}
+
+#di1{
+    width: 200px;
+}
+
+#speed{
+    text-align: center;
+    float: left;
+
+}
+#di2{
+    width: 200px;
+}
+
+#volume{
+    text-align: center;
+    float: right;
+
+}
+
+#play{
+    width: 200px;
+    font-size: 15px;
+}
+
+canvas{
+    border-style: solid;
+    border-color: yellow;
+}
+
